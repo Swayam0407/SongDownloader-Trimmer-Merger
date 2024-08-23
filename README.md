@@ -9,8 +9,7 @@ Audio Merging: Combine all trimmed audio clips into a single MP3 file.
 Downloadable Output: Download the final merged MP3 file directly from the web interface.
 
 
-Project Structure:
-
+Project Structure:\
 <img width="700" alt="Screenshot 2024-08-23 at 1 29 39 PM" src="https://github.com/user-attachments/assets/70ca1ade-6649-4efd-839e-32c43aee2511">
 
 Workflow:
