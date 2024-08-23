@@ -3,10 +3,10 @@
 SongDownloader-Trimmer-Merger is a Python Flask web application that allows users to search for songs on YouTube, download the audio, trim each song to the first 30 seconds, and merge them into a single audio file. The final merged audio can then be downloaded as a single MP3 file.
 
 **Features**
--Search and Download: Search for songs on YouTube and download the audio.
--Audio Trimming: Automatically trim each downloaded song to 30 seconds.
--Audio Merging: Combine all trimmed audio clips into a single MP3 file.
--Downloadable Output: Download the final merged MP3 file directly from the web interface.
+Search and Download: Search for songs on YouTube and download the audio.
+Audio Trimming: Automatically trim each downloaded song to 30 seconds.
+Audio Merging: Combine all trimmed audio clips into a single MP3 file.
+Downloadable Output: Download the final merged MP3 file directly from the web interface.
 
 
 **Project Structure:**
